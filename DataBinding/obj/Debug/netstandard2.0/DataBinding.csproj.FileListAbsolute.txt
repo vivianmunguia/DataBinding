@@ -1,0 +1,15 @@
+C:\DataBinding\DataBinding\bin\Debug\netstandard2.0\DataBinding.deps.json
+C:\DataBinding\DataBinding\bin\Debug\netstandard2.0\DataBinding.dll
+C:\DataBinding\DataBinding\bin\Debug\netstandard2.0\ref\DataBinding.dll
+C:\DataBinding\DataBinding\bin\Debug\netstandard2.0\DataBinding.pdb
+C:\DataBinding\DataBinding\obj\Debug\netstandard2.0\DataBinding.csproj.AssemblyReference.cache
+C:\DataBinding\DataBinding\obj\Debug\netstandard2.0\DataBinding.GeneratedMSBuildEditorConfig.editorconfig
+C:\DataBinding\DataBinding\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\DataBinding\DataBinding\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\DataBinding\DataBinding\obj\Debug\netstandard2.0\DataBinding.AssemblyInfoInputs.cache
+C:\DataBinding\DataBinding\obj\Debug\netstandard2.0\DataBinding.AssemblyInfo.cs
+C:\DataBinding\DataBinding\obj\Debug\netstandard2.0\DataBinding.csproj.CoreCompileInputs.cache
+C:\DataBinding\DataBinding\obj\Debug\netstandard2.0\XamlC.stamp
+C:\DataBinding\DataBinding\obj\Debug\netstandard2.0\DataBinding.dll
+C:\DataBinding\DataBinding\obj\Debug\netstandard2.0\ref\DataBinding.dll
+C:\DataBinding\DataBinding\obj\Debug\netstandard2.0\DataBinding.pdb
