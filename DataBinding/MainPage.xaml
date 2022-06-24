@@ -5,7 +5,7 @@
 
     <StackLayout Padding="40">
         <Label Text="Nombre del empleado:" />
-        <Label Text="Nombre:" />
+        <Label Text="{Binding NombreCompleto}" />
     </StackLayout>
 
 </ContentPage>
